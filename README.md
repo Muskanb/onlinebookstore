@@ -47,6 +47,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 3. Database:
 - MySql
+- 
 
 ### ================ Software And Tools Required ================
 - Eclipse [Enterprise Edition]
